@@ -17,7 +17,7 @@
         android:id="@+id/gombLayout"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_below="@id/KepErme"
+        android:layout_below="@id/kepErme"
         android:orientation="horizontal">
 
         <Button
