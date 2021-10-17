@@ -7,7 +7,7 @@
     tools:context=".MainActivity">
 
     <ImageView
-        android:id="@+id/KepErme"
+        android:id="@+id/kepErme"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
@@ -21,7 +21,7 @@
         android:orientation="horizontal">
 
         <Button
-            android:id="@+id/gombFel"
+            android:id="@+id/gombFej"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
